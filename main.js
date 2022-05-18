@@ -7,7 +7,14 @@ const { app, BrowserWindow } = electron;
 let mainWindow;
 
 app.on('ready', function () {
-  mainWindow = new BrowserWindow({});
+  mainWindow = new BrowserWindow({
+    width: 1920,
+    height: 1080,
+    minWidth: 1200,
+    minHeight: 750,
+    autoHideMenuBar: true,
+    fullscreen: true,
+  });
   mainWindow.loadURL(
     url.format({
       pathname: path.join(__dirname, 'index.html'),
@@ -15,4 +22,10 @@ app.on('ready', function () {
       slashes: true,
     })
   );
+});
+
+app.on('window-all-closed', () => {
+  if (process.platform !== 'darwin') {
+    app.quit();
+  }
 });
