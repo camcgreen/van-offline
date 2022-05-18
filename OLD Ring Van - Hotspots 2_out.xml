@@ -1,0 +1,48 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<vrobject>
+  <input states="1" windowheight="1080" width="1920" imagepath="images" preview="4" windowwidth="1920" height="1080" preload="1" columns="72" rows="1" fileextension="png"/>
+  <control simulatemass="1" lockedmouse="0" swapxy="0" lockedkeyboard="0" dblclickfullscreen="0" revx="0" invertwheel="0" revy="0" wrapx="1" wrapy="0" trapwheel="1" automovemode="1" lockedwheel="0" speedwheel="1" controller="1" sensitivity="10"/>
+  <view>
+    <start row="0" column="0" state="0"/>
+    <zoom default="0.9" min="0.9" max="0.9"/>
+    <viewer imagescaling="1" background="0"/>
+  </view>
+  <autorotate speed="0.05" delay="30" start="1"/>
+  <qthotspots enabled="1" reuse="8">
+    <hotspot target="_self" url="javascript:popup('interior-popup');" id="1"/>
+    <hotspot target="_self" url="javascript:popup('interior-popup');" id="2"/>
+    <hotspot target="_self" url="javascript:popup('interior-popup');" id="3"/>
+    <hotspot target="_self" url="javascript:popup('interior-popup');" id="4"/>
+    <hotspot target="_self" url="javascript:popup('interior-popup');" id="5"/>
+    <hotspot target="_self" url="javascript:popup('interior-popup');" id="6"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="7"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="8"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="9"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="10"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="11"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="12"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="13"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="14"/>
+    <hotspot target="_self" url="javascript:popup('hazard-popup');" id="23"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="24"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="25"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="26"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="27"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="28"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="29"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="30"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="31"/>
+    <hotspot target="_self" url="javascript:popup('reversing-popup');" id="32"/>
+    <hotspot target="_self" url="javascript:popup('work-popup');" id="33"/>
+    <hotspot target="_self" url="javascript:popup('work-popup');" id="34"/>
+    <hotspot target="_self" url="javascript:popup('work-popup');" id="35"/>
+    <hotspot target="_self" url="javascript:popup('work-popup');" id="36"/>
+    <hotspot target="_self" url="javascript:popup('work-popup');" id="37"/>
+    <hotspot target="_self" url="javascript:popup('work-popup');" id="38"/>
+    <hotspot target="_self" url="javascript:popup('work-popup');" id="39"/>
+  </qthotspots>
+  <hotspots>
+    <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+    <polyhotspot title="" target="" url="" id="Poly01" reuse="0"/>
+  </hotspots>
+</vrobject> -->
