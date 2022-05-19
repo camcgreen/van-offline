@@ -10,8 +10,19 @@
   <autorotate speed="0.05" delay="30" start="1"/>
   <userdata title="" datetime="" description="" copyright="" author="" source="" comment="" info=""/>
   <qthotspots enabled="1" reuse="8">
-    <!-- <hotspot title="LED Strobe Lights" target="_self" url="javascript:popup('hazard-popup')" id="1"/> -->
-    <hotspot target="_self" url="javascript:popup('hazard-popup', 'hazard-product-c')" id="1"/>
+    <hotspot title="" target="_self" url="javascript:popup('hazard-popup', 'strobe')" id="1"/>
+    <hotspot title="" target="_self" url="javascript:popup('wireless-popup', 'wireless')" id="2"/>
+    <hotspot title="" target="_self" url="javascript:popup('hazard-popup', 'slimline-strobe')" id="3"/>
+    <hotspot title="" target="_self" url="javascript:popup('hazard-popup', 'light-bars')" id="4"/>
+    <hotspot title="" target="_self" url="javascript:popup('hazard-popup', 'strobe')" id="5"/>
+    <hotspot title="" target="_self" url="javascript:popup('reversing-popup', 'wireless-reversing')" id="6"/>
+    <hotspot title="" target="_self" url="javascript:popup('genysis-popup', 'genysis')" id="7"/>
+    <hotspot title="" target="_self" url="javascript:popup('hazard-popup', 'slimline-strobe')" id="8"/>
+    <hotspot title="" target="_self" url="javascript:popup('hazard-popup', 'light-bars')" id="9"/>
+    <hotspot title="" target="_self" url="javascript:popup('interior-popup', 'baton')" id="10"/>
+    <hotspot title="" target="_self" url="javascript:popup('remote-popup', 'mains')" id="11"/>
+    <hotspot title="" target="_self" url="javascript:popup('work-popup', 'led-work-lamp')" id="12"/>
+    <hotspot title="" target="_self" url="javascript:popup('reversing-popup', 'dashcam-hd')" id="13"/>
   </qthotspots>
   <hotspots>
     <polystyle mode="0" backgroundalpha="0.251" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1.000"/>

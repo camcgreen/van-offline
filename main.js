@@ -13,7 +13,7 @@ app.on('ready', function () {
     minWidth: 1200,
     minHeight: 750,
     autoHideMenuBar: true,
-    fullscreen: true,
+    // fullscreen: true,
   });
   mainWindow.loadURL(
     url.format({
