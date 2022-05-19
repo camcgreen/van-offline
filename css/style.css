@@ -183,7 +183,7 @@ header p {
   width: 170px;
   background: #005FAA;
   border: 2px solid #fff;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-size: 18px;
   line-height: 22px;
   text-align: center;
@@ -227,7 +227,7 @@ header p {
 }
 
 .popup .close a{
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: #000000;
   line-height: 40px;
   font-size: 18px;
@@ -292,7 +292,7 @@ header p {
   font-size: 22px;
   text-align: center;
   /* padding: 30px; */
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   /* color: #fff; */
   color: #005FAA;
   height: 100%;
@@ -366,7 +366,7 @@ header p {
 
 .prev-arrow a,
 .next-arrow a{
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: #000000;
   line-height: 40px;
   font-size: 18px;
@@ -396,7 +396,7 @@ header p {
   z-index: 1;
   line-height: 40px;
   font-size: 18px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .navigation-links a{
@@ -494,7 +494,7 @@ header p {
 .comparison .caption{
   text-align: center;
   font-size:18px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .comparison .option,
@@ -537,11 +537,11 @@ header p {
 }
 
 .benefits .image{
-  /* width: calc(40% - 40px); */
+  width: calc(40% - 100px);
   position: relative;
   width: 40%;
   /* float: right; */
-  /* padding: 20px; */
+  padding: 50px;
   /* height: 100%;
   display: flex;
   flex-direction: column;

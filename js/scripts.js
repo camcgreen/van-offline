@@ -125,6 +125,7 @@ jQuery(document).ready(function ($) {
     $('a', $(this).parent()).removeClass('active');
     $('.option', $(this).parent().parent()).removeClass('active');
     var href = $(this).attr('href');
+    console.log(this);
     $(href).addClass('active');
     $(this).addClass('active');
     return false;
